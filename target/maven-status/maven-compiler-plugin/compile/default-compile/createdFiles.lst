@@ -1,0 +1,15 @@
+dba\timetable\management\domain\Lecturer.class
+dba\timetable\management\controller\HomeController.class
+dba\timetable\management\service\BbitService.class
+dba\timetable\management\controller\StudentController.class
+dba\timetable\management\domain\repository\impl\BbitRepositoryImpl$1.class
+dba\timetable\management\domain\Bcom.class
+dba\timetable\management\controller\AdminController.class
+dba\timetable\management\controller\LecturerController.class
+dba\timetable\management\domain\repository\impl\BbitRepositoryImpl$BbitMapper.class
+dba\timetable\management\service\impl\BbitServiceImpl.class
+dba\timetable\management\TimetableSystemsApplication.class
+dba\timetable\management\domain\repository\impl\BbitRepositoryImpl.class
+dba\timetable\management\domain\repository\BbitRepository.class
+dba\timetable\management\ServletInitializer.class
+dba\timetable\management\domain\Bbit.class
